@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { 
   DollarSign, Users, AlertTriangle, Wallet, PlusCircle, 
   CheckCircle2, Clock, XCircle, Phone, FileText, ChevronRight 

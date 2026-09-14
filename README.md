@@ -1,4 +1,4 @@
-﻿# CashFlow Pro - Dashboard de Empréstimos
+# CashFlow Pro - Dashboard de Empréstimos
 
 Sistema moderno de gestão financeira, controle de empréstimos, mutuários e acompanhamento de parcelas e rendimentos.
 
